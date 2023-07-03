@@ -1,0 +1,3 @@
+Privacy Policy:
+
+This Bot logs the username of the user who sends commands in.  It takes no other information and the logs are wiped whenever the bot is reset for updates or any other reason.  This bot will not give any data to any third party that attempts to request data.
