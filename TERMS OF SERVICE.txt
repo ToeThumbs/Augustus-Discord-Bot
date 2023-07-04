@@ -1,0 +1,19 @@
+TERMS OF SERVICE:
+
+USING AUGUSTUS:
+Augustus is a fire emblem database bot built off the discontinued Oifey bot that was created by Izumi-Niche.  Augustus is used the same way by using commands to pull data based on user requests.  This bot is completely free to use with no limitations.
+
+SECURITY:
+Augustus does not collect any data on any user that uses the software, excluding the username of the user that inputs a command which is stored in the log.  Even with the limited info that is currently gathered, there will still be security measures to prevent any potential third party from gaining access to the code and attempting to manipulate with malicuious intent.
+
+LIMITATION OF LIABILITY:
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, DBOTS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOOD-WILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (A) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE PRODUCTS; (B) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE PRODUCTS, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES.
+
+GOVERNING LAW AND JURISDICTION:
+These Terms shall be governed by the laws of The United States and are subject to the exclusive jurisdiction of the courts of Indiana.
+
+GENERAL TERMS:
+Notification procedures and changes to these Terms Augustus reserves the right to determine the form and means of providing notifications to you, and you agree to receive legal notices electronically if we so choose. We may revise these Terms from time to time and will be kept up to date on the bot. If a revision, in our sole discretion, is material we will notify you. By continuing to access or use the Products after revisions become effective, you agree to be bound by the revised Terms. If you do not agree to the new terms, please stop using the Products.
+
+DISCLAIMER:
+This bot is purely a fan project dedicated to Fire Emblem and is in no way affiliated with Nintendo or Intelligent Systems, all copyright material is strictly their property.  In addition this bot is a continuation of the discontined Oifey bot and all credit for the original belongs to Izumi-Niche.
